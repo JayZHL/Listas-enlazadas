@@ -1,0 +1,4 @@
+<h1>Introducción</h1>
+Las Listas enlazadas lineales son un tipo de estructurar los datos para manipular información de una forma no secuencial existen diferentes tipos de listas como son: listas enlazadas circulares, listas enlazadas ligadas y listas doblemente enlazadas circulares.
+<h1>Procedimiento</h1>
+Para esta práctica se utilizaron principalmente las clases Lista, Nodo y Menu que permiten manejar los datos y el movimiento de la lista gráficamente, y las demás representan los componentes gráficos que se necesitan para dibujarla. En la clase Lista se implementaron los métodos requeridos que representa esta estructura de datos. En la clase Menu se hace uso de la clase lista para ir guardando los colores que el usuario ingresa, según el orden en el que inserta o elimina los datos, alteramos gráficamente la lista siempre usando como referencia que ya tenemos guardados para ir creando o borrando los cuadros, a la vez que hacemos las respectivas validaciones.
